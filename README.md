@@ -1,4 +1,4 @@
-#   Build React fullStack Spring boot Application  
+#   Build React fullStack Spring boot Application   Capstone Project
 #   performing the CRUD operations and based on the MVC Architecture(model, view, controller) 
 #   Implemented  in Java The encapsulated ,Abstraction, Polymorphism (OOPS) creating an Object  along with all the dependencies injection needed
 #   using the controller to connect the model and the view, create the CRUD (create, Read, Update and Delete)operations to allow the user to access  to all the propreties of our       Model the exception Handler to catch any error happening during runtime, and a repository for our Model. 
