@@ -1,1 +1,1 @@
-# Capstone
+# Capstone Using React fullStack Spring boot in my project performing the CRUD operations. Immplemented  in Java The encapsulated method creating an Object  along with all the dependancies such as the controller to connect the model and the view, the exception Handler to catch any error happening during runtime, and a repository for our Model. On the React  front end we create the CRUD (create, Read, Update and Delete)operations to allow the user to access  to all the propreties of our Model Using the REST Api 
